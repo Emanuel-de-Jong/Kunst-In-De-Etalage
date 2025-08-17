@@ -1,8 +1,16 @@
 # Kunst In De Etalage
 This is a [website](https://www.kunstindeetalage.nl/) that I build from scratch for a client during my internship at Jaarsma & De Boer. Due to an NDA, I am restricted to only sharing screenshots.
 
-![home](/Screenshots/1-home.png)
+### Table of Contents
+- [About](#about)
 
-![contact](/Screenshots/2-contact-full.png)
+| | |
+| :---: | :---: |
+| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
 
-![menu_dropdown](/Screenshots/3-menu_dropdown-mobile.png)
+## About
+| | |
+| --- | --- |
+| | - **Project Overview** - |
+| **Active Development:** |  |
+| **Maintenance:** |  |
