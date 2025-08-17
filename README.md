@@ -6,7 +6,9 @@ This is a [website](https://www.kunstindeetalage.nl/) that I build from scratch 
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/1-Home.png) | ![](/Screenshots/2-News.png) |
+| ![](/Screenshots/3-Contact-Full.png) | ![](/Screenshots/4-Gallery.png) |
+| ![](/Screenshots/5-Over_Ons-Mobile.png) | ![](/Screenshots/6-Menu_Dropdown-Mobile.png) |
 
 ## About
 | | |
